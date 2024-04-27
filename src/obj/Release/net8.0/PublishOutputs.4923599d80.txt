@@ -1,0 +1,1 @@
+C:\Users\Blue\Desktop\FirebaseHostingBlazorWasm\src\bin\Release\net8.0\publish\web.config
